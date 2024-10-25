@@ -9,7 +9,7 @@ Este proyecto es una solución integral para la gestión de asistencia de practi
 - Lenguaje de Programación: Java
 - Servlets (para el desarrollo del frontend y backend en un solo entorno)
 - Base de Datos: MySQL
-- Editor de Código Recomendado: [Eclipse](https://www.eclipse.org/), [IntelliJ IDEA](https://www.jetbrains.com/idea/), o cualquier editor compatible con Java.
+- Editor de Código Recomendado:[IntelliJ IDEA](https://www.jetbrains.com/idea/), o cualquier editor compatible con Java.
 
 # Contribuidores
 
