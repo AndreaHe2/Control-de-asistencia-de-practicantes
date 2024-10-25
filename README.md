@@ -22,4 +22,3 @@ Este proyecto ha sido desarrollado por un grupo de estudiantes de la Universidad
 ¡Gracias por tu interés en nuestro proyecto! Esperamos que esta herramienta sea de gran utilidad para la gestión educativa.
 
 ```
-
